@@ -1,0 +1,1 @@
+Este é o frontend do projeto Personal Budget, desenvolvido à partir do app 'My Money', do curso 'React JS', da Cod3rs. O backend está disponível em https://github.com/fbciriaco/be-personal-budget
